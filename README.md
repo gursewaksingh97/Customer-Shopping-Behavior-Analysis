@@ -41,7 +41,8 @@ Key attributes in the dataset include:
 
 These attributes help analyze customer preferences, purchasing patterns, and product performance across different demographics and seasons.
 
-![Dataset Preview](screenshots/Data_preview.png)
+<img width="1897" height="762" alt="Data_preview" src="https://github.com/user-attachments/assets/6935dc35-ec78-4530-a611-382766996b3f" />
+
 
 ## Business Analysis Performed
 
@@ -75,7 +76,8 @@ The analysis revealed several important insights about customer shopping behavio
 
 ## Power BI Dashboard
 
-![Customer Behavior Dashboard](screenshots/Dashboard.png)
+<img width="1343" height="738" alt="Dashboard" src="https://github.com/user-attachments/assets/dc2758cc-e295-4b8c-a7d5-9e683085b4bf" />
+<img width="1462" height="798" alt="Dashboard 2" src="https://github.com/user-attachments/assets/84a66cc9-c428-4e71-bfe4-04763dec1de9" />
 
 ## Acknowledgment
 
